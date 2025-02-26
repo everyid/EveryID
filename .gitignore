@@ -1,0 +1,17 @@
+.venv
+tmp
+.DS_Store
+datasets
+fixtures
+__pycache__
+.pytest_cache
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+/venvs
+
+reid
+
+
